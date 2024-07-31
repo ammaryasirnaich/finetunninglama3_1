@@ -1,8 +1,9 @@
-# Fine-Tuning LLaMA with LoRA
+# Fine-Tuning Meta-Llama-3.1-8B parameter Language Model with 2.1x faster performance and taking 60% less memory using unsloth
 
 ## Highlights
 
-This tutorial provides a comprehensive guide for fine-tuning a language model using the LLaMA architecture and LoRA (Low-Rank Adaptation). Key features include:
+This tutorial will guide you through the process of fine-tuning the latest Meta-Llama-3.1-8B language model released by Meta using LoRA (Low-Rank Adaptation). Key features include:
+
 
 ### Basic Steps
 
