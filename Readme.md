@@ -1,5 +1,11 @@
 # Fine-Tuning Meta-Llama-3.1-8B parameter Language Model with 2.1x faster performance and taking 60% less memory using unsloth
 
+
+![alt text](unslothperformance.png)
+
+
+For more information on how to use unsloth, check out there [github page](https://github.com/unslothai/unsloth)
+
 ## Highlights
 
 This tutorial will guide you through the process of fine-tuning the latest Meta-Llama-3.1-8B language model released by Meta using LoRA (Low-Rank Adaptation). Key features include:
@@ -25,13 +31,6 @@ This tutorial will guide you through the process of fine-tuning the latest Meta-
 6. **Model Saving**:
    - Saving the trained model and tokenizer locally and optionally pushing to Hugging Face Hub.
 
-### Advanced Steps
-
-1. **Using LoRA**:
-   - Implementing Low-Rank Adaptation for efficient fine-tuning of large models by specifying low-rank configurations.
-
-2. **Memory Management**:
-   - Monitoring GPU memory usage before and after training to manage large model requirements.
 
 ### Challenging Datasets
 
