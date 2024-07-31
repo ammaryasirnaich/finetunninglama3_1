@@ -8,7 +8,7 @@ For more information on how to use unsloth, check out there [github page](https:
 
 ## Highlights
 
-This tutorial will guide you through the process of fine-tuning the latest Meta-Llama-3.1-8B language model released by Meta using LoRA (Low-Rank Adaptation). Key features include:
+This tutorial will guide you through the process of fine-tuning the latest Meta-Llama-3.1-8B language model released by Meta using LoRA (Low-Rank Adaptation). You can use google colab or local GPU (takes around 10.2GB GPU) Key features include:
 
 
 ### Basic Steps
